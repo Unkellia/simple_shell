@@ -11,7 +11,7 @@ It is based on [the Thompson Shell](https://en.wikipedia.org/wiki/Thompson_shell
 ## Installation :wrench:
 Clone the below repository and compile the files into an executable using the GCC compiler.
 ```
-
+https://github.com/Unkellia/simple_shell.git.
 ```
 ##Environment :evergreen_tree::evergreen_tree:
 
@@ -33,7 +33,8 @@ ls -la
 ![screenshot of shell](https://user-images.githubusercontent.com/30075600/114757753-e50c2180-9d64-11eb-95ea-fb9bba776c8c.png)
 
 ## Contributors :sunglasses::muscle:
-
+* [**Umutoni Kellia**](https://github.com/Unkellia)
+* [**nwekechinonso**](https://github.com/nwekechinonso)
 
 ## Acknowledgments :pray:
 - Our fellow cohort members.
